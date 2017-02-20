@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bad_Trip:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bad_Trip_jar</output-path>
+    <root id="archive" name="Bad_Trip_jar.jar">
+      <element id="module-output" name="attemptnum100100101" />
+    </root>
+  </artifact>
+</component>

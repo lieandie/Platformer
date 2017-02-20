@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="game">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/game/Oniku-Loop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/game/Magic Cliffs v1.01.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
